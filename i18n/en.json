@@ -1,0 +1,93 @@
+{
+  "tabs": {
+    "home": "Home",
+    "shop": "Shop",
+    "wishlist": "Wishlist",
+    "rewards": "Rewards",
+    "account": "Account"
+  },
+  "home": {
+    "freeDelivery": "Free delivery on orders above {{threshold}}",
+    "shopByConcern": "Shop by Concern",
+    "featuredBrands": "Featured Brands",
+    "bestSellers": "Best Sellers",
+    "categories": "Categories",
+    "viewAll": "View All"
+  },
+  "shop": {
+    "search": "Search products...",
+    "sortBy": "Sort by",
+    "bestSelling": "Best Selling",
+    "priceLowHigh": "Price: Low to High",
+    "priceHighLow": "Price: High to Low",
+    "newest": "Newest",
+    "noResults": "No products found",
+    "filters": "Filters"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "description": "Description",
+    "ingredients": "Ingredients",
+    "howToUse": "How to Use",
+    "deliveryEstimate": "Delivery in 2-4 business days",
+    "freeShipping": "Free shipping on orders above {{threshold}}",
+    "relatedProducts": "You May Also Like",
+    "reviews": "Reviews",
+    "writeReview": "Write a Review"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "emptyDescription": "Browse our products and add items to your cart",
+    "shopNow": "Shop Now",
+    "subtotal": "Subtotal",
+    "delivery": "Delivery",
+    "free": "FREE",
+    "discount": "Discount",
+    "total": "Total",
+    "promoCode": "Promo Code",
+    "apply": "Apply",
+    "checkout": "Proceed to Checkout",
+    "freeDeliveryProgress": "{{remaining}} away from free delivery!",
+    "freeDeliveryReached": "You qualify for free delivery!"
+  },
+  "wishlist": {
+    "title": "Wishlist",
+    "empty": "Your wishlist is empty",
+    "emptyDescription": "Save your favorite products here",
+    "browse": "Browse Products"
+  },
+  "rewards": {
+    "title": "Rewards",
+    "points": "Points",
+    "tier": "Your Tier",
+    "earnMore": "Earn More Points",
+    "redeem": "Redeem Points",
+    "history": "Activity History"
+  },
+  "account": {
+    "title": "Account",
+    "login": "Log In",
+    "register": "Create Account",
+    "logout": "Log Out",
+    "orders": "My Orders",
+    "addresses": "Saved Addresses",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "language": "Language",
+    "support": "Contact Support",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "off": "{{percent}}% OFF"
+  }
+}

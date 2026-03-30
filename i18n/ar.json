@@ -1,0 +1,93 @@
+{
+  "tabs": {
+    "home": "الرئيسية",
+    "shop": "تسوّق",
+    "wishlist": "المفضلة",
+    "rewards": "المكافآت",
+    "account": "حسابي"
+  },
+  "home": {
+    "freeDelivery": "توصيل مجاني للطلبات فوق {{threshold}}",
+    "shopByConcern": "تسوّق حسب الاهتمام",
+    "featuredBrands": "علامات تجارية مميزة",
+    "bestSellers": "الأكثر مبيعاً",
+    "categories": "الفئات",
+    "viewAll": "عرض الكل"
+  },
+  "shop": {
+    "search": "ابحث عن منتجات...",
+    "sortBy": "ترتيب حسب",
+    "bestSelling": "الأكثر مبيعاً",
+    "priceLowHigh": "السعر: من الأقل للأعلى",
+    "priceHighLow": "السعر: من الأعلى للأقل",
+    "newest": "الأحدث",
+    "noResults": "لم يتم العثور على منتجات",
+    "filters": "التصفية"
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "outOfStock": "نفذت الكمية",
+    "description": "الوصف",
+    "ingredients": "المكونات",
+    "howToUse": "طريقة الاستخدام",
+    "deliveryEstimate": "التوصيل خلال ٢-٤ أيام عمل",
+    "freeShipping": "توصيل مجاني للطلبات فوق {{threshold}}",
+    "relatedProducts": "قد يعجبك أيضاً",
+    "reviews": "التقييمات",
+    "writeReview": "اكتب تقييماً"
+  },
+  "cart": {
+    "title": "السلة",
+    "empty": "سلتك فارغة",
+    "emptyDescription": "تصفح منتجاتنا وأضف ما يعجبك إلى السلة",
+    "shopNow": "تسوّق الآن",
+    "subtotal": "المجموع الفرعي",
+    "delivery": "التوصيل",
+    "free": "مجاناً",
+    "discount": "الخصم",
+    "total": "الإجمالي",
+    "promoCode": "رمز الخصم",
+    "apply": "تطبيق",
+    "checkout": "إتمام الشراء",
+    "freeDeliveryProgress": "باقي {{remaining}} للتوصيل المجاني!",
+    "freeDeliveryReached": "مؤهل للتوصيل المجاني!"
+  },
+  "wishlist": {
+    "title": "المفضلة",
+    "empty": "قائمة المفضلة فارغة",
+    "emptyDescription": "احفظ منتجاتك المفضلة هنا",
+    "browse": "تصفح المنتجات"
+  },
+  "rewards": {
+    "title": "المكافآت",
+    "points": "النقاط",
+    "tier": "مستواك",
+    "earnMore": "اكسب المزيد من النقاط",
+    "redeem": "استبدال النقاط",
+    "history": "سجل النشاط"
+  },
+  "account": {
+    "title": "حسابي",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "orders": "طلباتي",
+    "addresses": "العناوين المحفوظة",
+    "profile": "الملف الشخصي",
+    "notifications": "الإشعارات",
+    "language": "اللغة",
+    "support": "تواصل معنا",
+    "terms": "الشروط والأحكام",
+    "privacy": "سياسة الخصوصية"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "retry": "إعادة المحاولة",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "confirm": "تأكيد",
+    "off": "خصم {{percent}}%"
+  }
+}

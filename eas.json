@@ -1,0 +1,68 @@
+{
+  "cli": {
+    "version": ">= 12.0.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "env": {
+        "STORE_REGION": "jo",
+        "EXPO_PUBLIC_STORE_REGION": "jo"
+      }
+    },
+    "preview": {
+      "distribution": "internal",
+      "env": {
+        "STORE_REGION": "jo",
+        "EXPO_PUBLIC_STORE_REGION": "jo"
+      }
+    },
+    "production-jo": {
+      "env": {
+        "STORE_REGION": "jo",
+        "EXPO_PUBLIC_STORE_REGION": "jo"
+      },
+      "ios": {
+        "bundleIdentifier": "com.sohaticare.jo"
+      },
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "autoIncrement": true
+    },
+    "production-eg": {
+      "env": {
+        "STORE_REGION": "eg",
+        "EXPO_PUBLIC_STORE_REGION": "eg"
+      },
+      "ios": {
+        "bundleIdentifier": "com.sohaticare.eg"
+      },
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "autoIncrement": true
+    }
+  },
+  "submit": {
+    "production-jo": {
+      "ios": {
+        "appleId": "REPLACE_WITH_APPLE_ID",
+        "ascAppId": "REPLACE_WITH_ASC_APP_ID"
+      },
+      "android": {
+        "track": "production"
+      }
+    },
+    "production-eg": {
+      "ios": {
+        "appleId": "REPLACE_WITH_APPLE_ID",
+        "ascAppId": "REPLACE_WITH_ASC_APP_ID"
+      },
+      "android": {
+        "track": "production"
+      }
+    }
+  }
+}
